@@ -1,4 +1,4 @@
-public class Powers {
+public class Power{
 
 public static int printPowersOfN (int base, int exponent) {
 
